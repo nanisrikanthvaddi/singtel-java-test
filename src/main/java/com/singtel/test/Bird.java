@@ -1,6 +1,6 @@
 package com.singtel.test;
 
-class Bird extends Animal {
+public class Bird extends Animal {
 	 
 	void fly() {
 		System.out.println("I am flying");
