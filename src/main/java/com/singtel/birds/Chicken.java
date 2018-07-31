@@ -19,4 +19,9 @@ public class Chicken extends Bird implements BirdTQualities {
 		return "Cluck, cluck";
 	}
 
+	public void doesItHaveWings() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

@@ -2,14 +2,14 @@ package com.singtel.birds;
 
 import com.singtel.test.Bird;
 
-public class Duck extends Bird implements BirdTQualities {
+public class Rooster extends Bird implements BirdTQualities {
  
 	public String voice(){
-		return "Quack, quack";
+		return "Cock-a-doodle-doo";
 	}
 
 	public Boolean isBirdCanSwim() {
-		return true;
+		return null;
 	}
 
 	public Boolean isBirdCanfly() {
@@ -18,7 +18,6 @@ public class Duck extends Bird implements BirdTQualities {
 	}
 
 	public void doesItHaveWings() {
-		// TODO Auto-generated method stub
 		
 	}
 	
