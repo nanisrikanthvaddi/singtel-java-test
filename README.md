@@ -17,5 +17,11 @@ Answewrs and explanation
 
 3. Now how would you model a rooster?
 
-	 Answers :  Same as 2nd question answer either interface or abstact class need to implement for common qualities
+	 Answers :  Same as 2nd question answer either interface or abstract class need to implement for common qualities
+	 
+	 
+3. Now how would you model a rooster?
+
+	 Answers :  Same as 2nd question answer either interface or abstract class need to implement for common qualities
+		  
 		  
